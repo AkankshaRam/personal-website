@@ -1,0 +1,133 @@
+body {
+  color: #40514E;
+  margin : 0;
+  text-align: center;
+  font-family: 'Orelega One', cursive;
+}
+h1 {
+  color: #709fb0;
+  font-size: 10rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+h2 {
+  color: #709fb0;
+  font-size: 2.5rem;
+  font-family: 'Roboto Slab', serif;
+  padding-bottom: 10px;
+
+}
+h3 {
+  color: #11999E;
+  font-family: 'Roboto Slab', serif;
+}
+p{
+  line-height: 2;
+}
+hr {
+  border: dotted #a2b29f 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a {
+  color: #45526c;
+  font-family: 'Roboto Slab', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+#title{
+  background-color: #ffe6ca;
+}
+
+
+
+.skill-row {
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.intro {
+  width : 50%;
+  margin: auto;
+}
+
+.top-container{
+  background-color: #dbf6e9;
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  line-height: 2.5;
+}
+.top-cloud {
+  position:absolute;
+  right: 300px;
+  top: 40px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Roboto Slab', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+.navbar{
+  padding:0 0 4.5rem;
+
+}
+.navbar-brand{
+  font-family: "ubantu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-bar{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+  font-family:"Montserrat-Light";
+}
